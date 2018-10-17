@@ -13,7 +13,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-__author__ = "Brett Slatkin (bslatkin@gmail.com)"
+__author__ = "Dhruv Modi(dhruvd2601@gmail.com)"
 
 import datetime
 import hashlib
